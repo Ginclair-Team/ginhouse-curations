@@ -1,0 +1,12 @@
+{
+  "name": "curated-skills",
+  "owner": { "name": "curator" },
+  "description": "Curated, unmaintained collection of agent skills by their original authors.",
+  "plugins": [
+    {
+      "name": "curated-skills",
+      "source": "./",
+      "description": "Permissively licensed agent skills, unmodified, credited to their authors."
+    }
+  ]
+}
