@@ -1,10 +1,10 @@
 {
-  "name": "curated-skills",
-  "owner": { "name": "curator" },
-  "description": "Curated, unmaintained collection of agent skills by their original authors.",
+  "name": "ginhouse-skills",
+  "owner": { "name": "Ginclair Team" },
+  "description": "Curated collection of agent skills by their original authors.",
   "plugins": [
     {
-      "name": "curated-skills",
+      "name": "ginhouse-skills",
       "source": "./",
       "description": "Permissively licensed agent skills, unmodified, credited to their authors."
     }

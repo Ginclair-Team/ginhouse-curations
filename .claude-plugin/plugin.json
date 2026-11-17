@@ -1,8 +1,8 @@
 {
-  "name": "curated-skills",
+  "name": "ginhouse-skills",
   "version": "1.0.0",
-  "author": { "name": "Curator (skills by their original authors)" },
-  "description": "Curated, unmaintained collection of permissively licensed agent skills by their original authors.",
+  "author": { "name": "Ginclair Team (curator; skills by their original authors)" },
+  "description": "Curated collection of permissively licensed agent skills by their original authors.",
   "skills": [
     "./skills/keyframe-forge/lemo-opuscar",
     "./skills/pixel-foundry/ui-design",
